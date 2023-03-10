@@ -1,0 +1,27 @@
+.corpo {
+    margin: 0;
+}
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: dashed 5px #022419;
+}
+.boxImage {
+    width: 100px;
+    height: 100px;
+    background-color: #41ddac;
+    border: 4px solid #022419;
+    border-radius: 50px;
+}
+.h1 {
+    font-family: monospace, sans-serif;
+    font-size: 30 px;
+}
+.span {
+    color: #124d37;
+}
+.i {
+    color: #c47478;
+}
